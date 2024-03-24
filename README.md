@@ -75,6 +75,7 @@ Comparison: Comparing the regions to the U.S. average, we can infer that some re
 Economic Implications: Such disparities in regional housing trends can be due to various factors, including local economic conditions, housing supply constraints, policy changes, and demographic shifts. Regions that outperform the average may be hotspots for investment or undergoing significant development, while those that underperform could be facing economic challenges or slower growth.
 
 ##Time Series Modelling
+
 **Time Series Decomposition**
 ![Phase_Four_Project_94_0](https://github.com/moseskigo/Phase_Four_Project/assets/143738914/cf63c3b2-2e1a-4dfd-95c9-1aeeeb34ae8b)
 
@@ -84,9 +85,13 @@ Breaking the non-stationary time series into its three components—trend, seaso
 For modelling, we decided to pick the following to iterate over:
 
 **1. Moving Average (MA) Base Model**
+
 **2. Autoregressive (AR) Model**
+
 **3. AutoRegressive Moving Average (ARMA) Model**
+
 **4. Seasonal AutoRegressive Moving Average (SARIMA) Model**
+
 **5. Facebook Prophet**
 
 **Observation**
