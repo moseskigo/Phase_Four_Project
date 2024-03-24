@@ -1,8 +1,8 @@
-![American Mortgage Bank Cover](https://github.com/moseskigo/Phase-4-proj/assets/143738914/05acb060-b616-41fb-9171-3d8fe4a69a04)
+![American Mortgage Bank Cover](https://github.com/moseskigo/Phase_Four_Project/assets/143738914/d5687bc1-dfce-4390-8c9d-aef4ae8e815e)
 
 # Revolutionizing Real Estate Analysis for Enhanced Mortgage Solutions at American Mortgage Bank
 
-![V G and AMB Logo](https://github.com/moseskigo/Phase-4-proj/assets/143738914/e3b7b6fb-58fa-4707-8689-ff913ff04f8b)
+![V G and AMB Logo](https://github.com/moseskigo/Phase_Four_Project/assets/143738914/ec44d22e-f4dc-41cd-8ecf-fab70fc7ab71)
 
 Moringa School Data Science Core Program\
 Part-Time 05 Cohort\
@@ -45,7 +45,7 @@ This dataset, sourced from Zillow's comprehensive housing data, [here](https://w
 Data Type:   ZHVI All Homes (SFR, Condo/Co-op) Time Series, Smoothed, Seasonally Adjusted\
 Geography:  Neighborhood
 
-![Zillow](https://github.com/moseskigo/Phase-4-proj/assets/143738914/6270d9df-d76f-4959-9d6c-cc59e2b63d18)
+![Zillow](https://github.com/moseskigo/Phase_Four_Project/assets/143738914/6d2291b6-46e0-4049-910f-1c9697e14781)
 
 ```python
 #importing necessary libraries
