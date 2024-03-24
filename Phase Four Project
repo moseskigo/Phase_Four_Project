@@ -69,14 +69,14 @@ from sklearn.metrics import mean_squared_error
 ```
 
 ##Market Dynamics
-![Phase_Four_Project_164_0](https://github.com/moseskigo/Phase-4-proj/assets/143738914/558c6425-8177-49ff-8dd1-3e360ce6f144)
+![Phase_Four_Project_164_0](https://github.com/moseskigo/Phase_Four_Project/assets/143738914/74dbce97-d9a6-44f4-a54e-e1c2c48b444d)
 Comparison: Comparing the regions to the U.S. average, we can infer that some regions have outperformed the national trend, particularly RegionID 112345, which shows a remarkable growth surpassing the national average by a considerable margin in recent years.
 
 Economic Implications: Such disparities in regional housing trends can be due to various factors, including local economic conditions, housing supply constraints, policy changes, and demographic shifts. Regions that outperform the average may be hotspots for investment or undergoing significant development, while those that underperform could be facing economic challenges or slower growth.
 
 ##Time Series Modelling
 **Time Series Decomposition**
-![Phase_Four_Project_94_0](https://github.com/moseskigo/Phase-4-proj/assets/143738914/89b23c9e-904f-4edf-82be-493e697e0bbb)
+![Phase_Four_Project_94_0](https://github.com/moseskigo/Phase_Four_Project/assets/143738914/cf63c3b2-2e1a-4dfd-95c9-1aeeeb34ae8b)
 
 Breaking the non-stationary time series into its three components—trend, seasonality, and residuals—is indeed a helpful approach for investigating the pattern in the past and aiding in the forecasting of future house values.
 
@@ -96,13 +96,13 @@ Therefore, the SARIMA(tuned) model is considered the best model among the ones c
 
 ## Model Evaluation
 
-![image](https://github.com/moseskigo/Phase-4-proj/assets/143738914/9eb8f74a-42e1-4689-b314-64bc1a87191e)
+![Phase_Four_Project_148_0](https://github.com/moseskigo/Phase_Four_Project/assets/143738914/34d2eaac-8c87-437d-b64f-22f4b80342eb)
 
 There is a general upward trend in home prices throughout the timeframe. This suggests that, on average, home prices in the United States have increased over the past two decades.
 
 The graph hints at potential periods of rapid increase followed by periods of stagnation or slight decrease. This could be indicative of housing bubbles and bursts that have occurred throughout history.
 
-![image](https://github.com/moseskigo/Phase-4-proj/assets/143738914/1ee8bdb6-b26b-4958-b4e9-7673e15b2995)
+![Phase_Four_Project_143_0](https://github.com/moseskigo/Phase_Four_Project/assets/143738914/298174b2-1cd1-4245-8aa7-9459f95aa383)
 
 The graph typically shows the trend of home values over a certain period. An upward trend suggests increasing home values, while a downward trend suggests decreasing home values.
 
@@ -111,7 +111,7 @@ There might be seasonal fluctuations in the data, with home values being higher 
 
 ## Market Drivers Analysis
 
-![image](https://github.com/moseskigo/Phase-4-proj/assets/143738914/54db6466-42e4-467f-9015-5fc795ccfd26)
+![Phase_Four_Project_161_0](https://github.com/moseskigo/Phase_Four_Project/assets/143738914/ab02a7fa-737e-4b5c-a260-025e16fad4e8)
 
 Periods of increasing unemployment rates often coincide with slower growth or declines in housing values, as seen around the 2008 financial crisis and the 2020 pandemic onset. This suggests that economic downturns, reflected by higher unemployment, can dampen housing market activity and prices.
 The relationship between mortgage rates and housing values isn't as direct or immediate but changes in mortgage rates can influence housing market dynamics over time. For instance, periods of lower mortgage rates can support increased housing demand and contribute to rising housing values, assuming other conditions are favorable.
