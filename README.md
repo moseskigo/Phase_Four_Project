@@ -17,7 +17,7 @@ The Team
 5. [Moses Kigo](https://github.com/moseskigo)
 
 ## Background
-American Mortgage Bank, eEstablished at the turn of the 20th century, stands at the forefront of an ever-evolving real estate landscape, where shifting market dynamics and fluctuating trends pose significant challenges to maintaining competitive lending strategies and effective risk assessments. The bank's commitment to innovation and excellence drives its quest for deeper market insights to refine its mortgage offerings and lending practices.
+American Mortgage Bank, established at the turn of the 20th century, stands at the forefront of an ever-evolving real estate landscape, where shifting market dynamics and fluctuating trends pose significant challenges to maintaining competitive lending strategies and effective risk assessments. The bank's commitment to innovation and excellence drives its quest for deeper market insights to refine its mortgage offerings and lending practices.
 
 ## Challenge
 Navigating the complexities of the real estate market requires more than traditional analysis; it demands a sophisticated, data-driven approach to unravel the intricacies of market behaviour. American Mortgage Bank faces the critical task of decoding these nuances to stay ahead in a competitive environment, enhance its risk management protocols, and meet its clientele's diverse needs with innovative mortgage products.
